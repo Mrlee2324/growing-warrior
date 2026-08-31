@@ -1,0 +1,10 @@
+{
+    "name": "成长小勇士 - 学期版",
+    "short_name": "成长小勇士",
+    "description": "习惯打卡 + 大转盘 + Switch时间管理",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#F0F7FF",
+    "theme_color": "#4A90D9"
+}
